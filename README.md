@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ### Step 2: Launch Services
 Open a new terminal:
 ```bash
-python3 trust_api_advanced.py
+python3 trust_api.py
 ```
 
 Open another new terminal:
