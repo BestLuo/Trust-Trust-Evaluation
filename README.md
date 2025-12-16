@@ -36,7 +36,6 @@ python3 realtime_agent.py
 *Note: Required toolkits must be installed on the attack machine*
 
 ### ① Normal Traffic (Trust Level 3)
-*No specific command provided*
 
 ### ② Port Scanning (Trust Level 2, non-disruptive to switch)
 ```bash
